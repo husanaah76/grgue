@@ -1,14 +1,14 @@
 export const accountLists = [
     {
-      "username": "xxx",
-      "password": "xxx"
+      "username": "asadqalbysekumpul",
+      "password": "K@pimanis1990"
     },
     {
-      "username": "xxx",
-      "password": "xxx"
+      "username": "hasaniqalbygom",
+      "password": "Ers@172021"
     },
     {
-      "username": "xxx",
-      "password": "xxx"
+      "username": "edrijal22",
+      "password": "N@ima1990"
     } // for more users just copy paste the form as many as your accounts
 ];
