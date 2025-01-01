@@ -1,4 +1,4 @@
-export const accountLists = [
+const accountLists = [
     {
       "username": "asadqalbysekumpul",
       "password": "K@pimanis1990"
